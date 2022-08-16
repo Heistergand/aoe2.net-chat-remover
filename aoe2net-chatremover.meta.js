@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AoE2.net sidebar remover
-// @namespace    Heistergand/aoe2.net-chat-remover
+// @namespace    https://github.com/Heistergand/aoe2.net-chat-remover
 // @version      0.1
 // @downloadURL  https://github.com/Heistergand/aoe2.net-chat-remover/raw/main/aoe2net-chatremover.user.js
 // @updateURL    https://github.com/Heistergand/aoe2.net-chat-remover/raw/main/aoe2net-chatremover.meta.js
